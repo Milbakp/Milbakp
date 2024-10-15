@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milbakp
-- 👀 I’m interested in Web Development, Sofrware Engineer, Data Science, Cybersecurity and Genrally all things CS, I also really Like to create stuff with Blender.
+- 👀 I’m interested genrally all interested in CS but mainly aim on becoming a game developer, I also really Like to create stuff with Blender.
 - 🌱 I’m currently learning alot of things related to Computer Science and I hope to become an expert in the field someday.
 - 📫 Contact me at luqmanirfan618@gmail.com.
 
